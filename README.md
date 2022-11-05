@@ -1,14 +1,14 @@
 ﻿# Optimization-methods
 Implementations of Optimization Algorithms like Simplex Algorithm, Steepest Gradient Descent, Newton's method.
-
+REPORT.pdf contains plots and outputs for the below questions.
 ## 1.py: 
 Consider minimization of the following function.
 
 f (x1,x2) = ex1+3x2−0.1 + ex1−3x2−0.1 + e−x1−0.1
 
 Implement steepest gradient descent to minimize the function. Use the stopping condition as ∥∇f (xk,xk)∥ ≤ ϵ with ϵ = 10−6. Use the following line search methods. 
-1. Use exact line search method. [5 Marks]
-2. Backtracking line search. For backtracking line search, see the Figure 1. [5 Marks] Use
+1. Use exact line search method. 
+2. Backtracking line search. For backtracking line search, see the Figure 1. 
 
 ![](Aspose.Words.82336299-d555-4043-87df-dee95e49e1e5.001.jpeg)
 
